@@ -20,3 +20,21 @@ JavaScript > event, functionality
 HTML> outer most tag/ wrapper tag
 Head > any linking css/javascript
 body > what is visible to the user
+
+
+inline
+> that start from the same line
+> only take space which is required
+> span, a, img
+
+block
+> start from the new line
+> take the whole width of screen
+> p div heading
+
+Name
+Image
+Something about you
+skills image
+map
+social links
