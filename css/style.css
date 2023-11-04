@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    color:green
+}
+#AmsHeading{
+    color:white
+}
+
+
+.card{
+    height:480px;
+    background-color:#75514a;
+    width:20%;
+    float:left;
+    margin:2%
+}
+.blue{
+    background-color: #a3bde7;
+}
+
+#brown{
+    background-color: #bdac9b;
+}
+.mycolor{
+    background-color: #30799d;
+}
+.card > img {
+    height:200px;
+    width:100%
+}

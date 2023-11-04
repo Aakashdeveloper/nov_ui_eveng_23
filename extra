@@ -38,3 +38,52 @@ Something about you
 skills image
 map
 social links
+
+//css
+inline
+
+styletag
+
+stylesheet
+
+inline>styletag>stylesheet
+
+inline
+{
+    color:red,
+    height:200px
+}
+
+styletag
+{
+    width:300px,
+    background:green,
+    color:orange
+}
+
+stylesheet
+{
+    width:400px,
+    font-size:20px,
+    height:100px
+}
+
+{
+   color:red,
+   height:200px,
+   width:300px,
+   background:green,
+   font-size:20px
+}
+
+////////////
+id
+> to target something unique
+> #
+
+className
+> to target group of element for the same property
+> .
+
+tagName
+> to target by tagname
