@@ -100,14 +100,19 @@ rest
 dom
 calc
 darklight
-------------
 array
-loop
+object
 json
+loop
 mapfilter
 clouser
 hoistings
+geolocation
 apicalling
+forms
+
 
 
 eval
+
+https://nodejs.org/en

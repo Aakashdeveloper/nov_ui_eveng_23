@@ -1,0 +1,15 @@
+var data = [
+    {
+        "name":"Jab We Met",
+        "rating":4.7,
+        "ind":"Bollywood"
+    },
+    {
+        "name":"Avengers",
+        "rating":4.3,
+        "ind":"Hollywood"
+    }
+]
+
+
+data[1].name

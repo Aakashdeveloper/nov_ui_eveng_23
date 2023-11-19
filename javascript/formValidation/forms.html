@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="forms.css"/>
+        <script src="forms.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <hr>
+            <div class="form-group">
+                <label class="control-label">Name</label>
+                <input name="fname" id="fname" class="formControl"
+                onblur="validateFname()"/>
+                <p id="fout"></p>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+                <input name="email" id="email" class="formControl"
+                onInput="validateEmail()"/>
+                <p id="eout"></p>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Password</label>
+                <input name="pwd" id="pwd" class="formControl"/>
+                <p id="pout"></p>
+            </div>
+        </div>
+    </body>
+</html>
